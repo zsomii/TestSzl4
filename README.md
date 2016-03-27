@@ -1,4 +1,3 @@
 # oneill
-our homework
+jó a fegyvered
 
-yyyy
