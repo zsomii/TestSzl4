@@ -8,7 +8,7 @@ import java.util.Date;
 public class Main {
 
 	    public static void main(String[] args) {
-	    	System.out.println("A két torony - Garbage Collectors csapat - Sceleton");
+	    	System.out.println("");
 			System.out.println("");
 		  /* Opciók kiírása */
 			System.out.println("Szekvenciák:");
